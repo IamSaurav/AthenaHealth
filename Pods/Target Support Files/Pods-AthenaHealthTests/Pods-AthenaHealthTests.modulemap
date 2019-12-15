@@ -1,0 +1,6 @@
+framework module Pods_AthenaHealthTests {
+  umbrella header "Pods-AthenaHealthTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

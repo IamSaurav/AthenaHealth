@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.0)
+  - ZIPFoundation (0.9.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - ZIPFoundation (~> 0.9)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  ZIPFoundation: 68c35eb2637c21abe56dc60b3277636443bc1501
+
+PODFILE CHECKSUM: b5cb92cf941e718a0fc935f034f8e78e0b3b2159
+
+COCOAPODS: 1.5.3
