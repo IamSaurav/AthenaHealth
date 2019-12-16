@@ -11,7 +11,6 @@ import UIKit
 class CategoriesViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     lazy var dataViewModel = DataViewModel()
-    var categoriesViewModel: CategoriesViewModel?
     override func viewDidLoad() {
         super.viewDidLoad()
         dataViewModel.downloadData()
